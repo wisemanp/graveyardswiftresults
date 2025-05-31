@@ -65,8 +65,12 @@ def push_results_to_github(repo_path, filename="results.csv"):
     """
     Save data as JSON to filename inside repo_path, commit, and push to GitHub.
     """
+    print("Pushing results to GitHub...")
+    print("Current working directory:", os.getcwd())
+    print('Repo path:', repo_path)
+    print('Filename:', filename)
     try:
-        subprocess.run(["git", "add", filename], check=True)
+        subprocess.run(["git", "add", "."], check=True)
         subprocess.run(["git", "commit", "-m", "Update relay results"], cwd=repo_path, check=True)
         subprocess.run(["git", "push"], cwd=repo_path, check=True)
         print("Pushed updated results to GitHub")
