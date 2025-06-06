@@ -16830,3 +16830,146 @@ downgrade to 'numpy<2' or try to upgrade the affected module.
 We expect that some modules will need time to support NumPy 2.
 
 
+[main af23bec] Update relay results
+ 1 file changed, 143 insertions(+)
+To github.com:wisemanp/graveyardswiftresults.git
+   5ffa68c..af23bec  main -> main
+Team ID: test
+Fetching results from: https://results.resultsbase.net/myresults.aspx?CId=8&RId=20442&EId=1&AId=539296
+Found tables: 1
+GOT DATA [{'Lap': '1', 'Runner': 'Matthew Clark', 'Leg Time': '00:40:14'}, {'Lap': '2', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:41:37'}, {'Lap': '3', 'Runner': 'Miranda Bates', 'Leg Time': '00:47:41'}, {'Lap': '4', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:38:53'}, {'Lap': '5', 'Runner': 'James Symonds', 'Leg Time': '00:42:18'}, {'Lap': '6', 'Runner': 'Matthew Clark', 'Leg Time': '00:41:06'}, {'Lap': '7', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:41:20'}, {'Lap': '8', 'Runner': 'Miranda Bates', 'Leg Time': '00:48:20'}, {'Lap': '9', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:38:42'}, {'Lap': '10', 'Runner': 'James Symonds', 'Leg Time': '00:45:52'}, {'Lap': '11', 'Runner': 'Matthew Clark', 'Leg Time': '00:40:19'}, {'Lap': '12', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:41:28'}, {'Lap': '13', 'Runner': 'Miranda Bates', 'Leg Time': '00:49:42'}, {'Lap': '14', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:38:31'}, {'Lap': '15', 'Runner': 'James Symonds', 'Leg Time': '00:47:08'}, {'Lap': '16', 'Runner': 'Matthew Clark', 'Leg Time': '00:45:54'}, {'Lap': '17', 'Runner': 'Matthew Clark', 'Leg Time': '00:46:28'}, {'Lap': '18', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:45:03'}, {'Lap': '19', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:51:33'}, {'Lap': '20', 'Runner': 'Miranda Bates', 'Leg Time': '00:52:20'}, {'Lap': '21', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:41:28'}, {'Lap': '22', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:40:47'}, {'Lap': '23', 'Runner': 'James Symonds', 'Leg Time': '01:11:20'}, {'Lap': '24', 'Runner': 'Matthew Clark', 'Leg Time': '00:43:36'}, {'Lap': '25', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:46:30'}, {'Lap': '26', 'Runner': 'Miranda Bates', 'Leg Time': '00:52:16'}, {'Lap': '27', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:39:38'}, {'Lap': '28', 'Runner': 'Matthew Clark', 'Leg Time': '00:42:22'}, {'Lap': '29', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:44:40'}, {'Lap': '30', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:40:50'}, {'Lap': '31', 'Runner': 'Matthew Clark', 'Leg Time': '00:41:20'}, {'Lap': '32', 'Runner': 'Mark Mcqueen', 'Leg Time': '00:40:33'}, {'Lap': '33', 'Runner': 'Andrew Prestidge', 'Leg Time': '00:50:36'}, {'Lap': '34', 'Runner': '', 'Leg Time': ''}, {'Lap': '35', 'Runner': '', 'Leg Time': ''}, {'Lap': '36', 'Runner': '', 'Leg Time': ''}, {'Lap': '37', 'Runner': '', 'Leg Time': ''}, {'Lap': '38', 'Runner': '', 'Leg Time': ''}, {'Lap': '39', 'Runner': '', 'Leg Time': ''}, {'Lap': '40', 'Runner': '', 'Leg Time': ''}, {'Lap': '41', 'Runner': '', 'Leg Time': ''}, {'Lap': '42', 'Runner': '', 'Leg Time': ''}, {'Lap': '43', 'Runner': '', 'Leg Time': ''}, {'Lap': '44', 'Runner': '', 'Leg Time': ''}, {'Lap': '45', 'Runner': '', 'Leg Time': ''}]
+Fetched results:    Lap            Runner  Leg Time
+0    1     Matthew Clark  00:40:14
+1    2  Andrew Prestidge  00:41:37
+2    3     Miranda Bates  00:47:41
+3    4      Mark Mcqueen  00:38:53
+4    5     James Symonds  00:42:18
+5    6     Matthew Clark  00:41:06
+6    7  Andrew Prestidge  00:41:20
+7    8     Miranda Bates  00:48:20
+8    9      Mark Mcqueen  00:38:42
+9   10     James Symonds  00:45:52
+10  11     Matthew Clark  00:40:19
+11  12  Andrew Prestidge  00:41:28
+12  13     Miranda Bates  00:49:42
+13  14      Mark Mcqueen  00:38:31
+14  15     James Symonds  00:47:08
+15  16     Matthew Clark  00:45:54
+16  17     Matthew Clark  00:46:28
+17  18  Andrew Prestidge  00:45:03
+18  19  Andrew Prestidge  00:51:33
+19  20     Miranda Bates  00:52:20
+20  21      Mark Mcqueen  00:41:28
+21  22      Mark Mcqueen  00:40:47
+22  23     James Symonds  01:11:20
+23  24     Matthew Clark  00:43:36
+24  25  Andrew Prestidge  00:46:30
+25  26     Miranda Bates  00:52:16
+26  27      Mark Mcqueen  00:39:38
+27  28     Matthew Clark  00:42:22
+28  29  Andrew Prestidge  00:44:40
+29  30      Mark Mcqueen  00:40:50
+30  31     Matthew Clark  00:41:20
+31  32      Mark Mcqueen  00:40:33
+32  33  Andrew Prestidge  00:50:36
+33  34                            
+34  35                            
+35  36                            
+36  37                            
+37  38                            
+38  39                            
+39  40                            
+40  41                            
+41  42                            
+42  43                            
+43  44                            
+44  45                            
+Pushing results to GitHub...
+Current working directory: /Users/pwise
+Repo path: /Users/pwise/data/running/endure/results/graveyardswiftresults/
+Current working directory: /Users/pwise/data/running/endure/results/graveyardswiftresults
+Filename: results.csv
+Pushed updated results to GitHub
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.2.6 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/pwise/data/running/endure/results/graveyardswiftresults/fetcher.py", line 3, in <module>
+    import pandas as pd
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 53, in <module>
+    from pandas.core import (
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/ops/__init__.py", line 8, in <module>
+    from pandas.core.ops.array_ops import (
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/ops/array_ops.py", line 56, in <module>
+    from pandas.core.computation import expressions
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/computation/expressions.py", line 21, in <module>
+    from pandas.core.computation.check import NUMEXPR_INSTALLED
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/computation/check.py", line 5, in <module>
+    ne = import_optional_dependency("numexpr", errors="warn")
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/opt/anaconda3/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/opt/anaconda3/lib/python3.12/site-packages/numexpr/__init__.py", line 24, in <module>
+    from numexpr.interpreter import MAX_THREADS, use_vml, __BLOCK_SIZE1__
+AttributeError: _ARRAY_API not found
+
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.2.6 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+Traceback (most recent call last):  File "/Users/pwise/data/running/endure/results/graveyardswiftresults/fetcher.py", line 3, in <module>
+    import pandas as pd
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/__init__.py", line 49, in <module>
+    from pandas.core.api import (
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/api.py", line 28, in <module>
+    from pandas.core.arrays import Categorical
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/__init__.py", line 1, in <module>
+    from pandas.core.arrays.arrow import ArrowExtensionArray
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/arrow/__init__.py", line 5, in <module>
+    from pandas.core.arrays.arrow.array import ArrowExtensionArray
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/arrow/array.py", line 67, in <module>
+    from pandas.core.arrays.masked import BaseMaskedArray
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/arrays/masked.py", line 61, in <module>
+    from pandas.core import (
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/core/nanops.py", line 52, in <module>
+    bn = import_optional_dependency("bottleneck", errors="warn")
+  File "/opt/anaconda3/lib/python3.12/site-packages/pandas/compat/_optional.py", line 135, in import_optional_dependency
+    module = importlib.import_module(name)
+  File "/opt/anaconda3/lib/python3.12/importlib/__init__.py", line 90, in import_module
+    return _bootstrap._gcd_import(name[level:], package, level)
+  File "/opt/anaconda3/lib/python3.12/site-packages/bottleneck/__init__.py", line 7, in <module>
+    from .move import (move_argmax, move_argmin, move_max, move_mean, move_median,
+Traceback (most recent call last):
+  File "/opt/anaconda3/lib/python3.12/site-packages/numpy/core/_multiarray_umath.py", line 44, in __getattr__
+    raise ImportError(msg)
+ImportError: 
+A module that was compiled using NumPy 1.x cannot be run in
+NumPy 2.2.6 as it may crash. To support both 1.x and 2.x
+versions of NumPy, modules must be compiled with NumPy 2.0.
+Some module may need to rebuild instead e.g. with 'pybind11>=2.12'.
+
+If you are a user of the module, the easiest solution will be to
+downgrade to 'numpy<2' or try to upgrade the affected module.
+We expect that some modules will need time to support NumPy 2.
+
+
