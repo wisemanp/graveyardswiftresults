@@ -3,6 +3,7 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import subprocess
 import os
+import sys 
 
 def fetch_results():
     with open('/Users/pwise/Library/Mobile Documents/com~apple~CloudDocs/teamId.txt', 'r') as file:
@@ -68,6 +69,8 @@ def push_results_to_github(repo_path, filename="results.csv"):
     print("Pushing results to GitHub...")
     print("Current working directory:", os.getcwd())
     print('Repo path:', repo_path)
+    os.chdir(repo_path)
+    print("Current working directory:", os.getcwd())
     print('Filename:', filename)
     try:
         subprocess.run(["git", "add", "."], check=True)
